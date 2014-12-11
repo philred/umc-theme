@@ -1,5 +1,4 @@
-
-name = umc
+name = UMC Theme
 description = A flexible, recolorable theme with many regions.
 package = Core
 version = VERSION
@@ -35,9 +34,7 @@ regions[footer] = Footer
 
 settings[shortcut_module_link] = 0
 
-
 ; Information added by drupal.org packaging script on 2013-04-03
 version = "7.22"
 project = "drupal"
 datestamp = "1365027012"
-
