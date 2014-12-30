@@ -1,11 +1,11 @@
-name = UMC Theme
+name = MU Theme
 description = A flexible, recolorable theme with many regions.
 package = Core
 version = VERSION
 core = 7.x
 base theme = bartik
 
-stylesheets[all][] = css/umc.css
+stylesheets[all][] = css/mu.css
 stylesheets[all][] = css/layout.css
 stylesheets[all][] = css/style.css
 stylesheets[all][] = css/colors.css
